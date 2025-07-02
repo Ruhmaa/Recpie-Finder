@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+img {
+  display: block;
+  max-width: 100%;
+}
+
+p,
+li {
+  @apply text-neutral-600;
+  line-height: 1.8;
+}
