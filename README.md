@@ -55,3 +55,14 @@ Ensure all component and CSS files are copied correctly.
 ### 4. Run the project
 npm start
 
+
+## Screenshots:
+<img width="1438" alt="image" src="https://github.com/user-attachments/assets/8a51cf67-bd6a-4c16-894a-cc3ce8939b2e" />
+<img width="1416" alt="image" src="https://github.com/user-attachments/assets/17b50c32-ced6-42da-b889-900ef80f40d0" />
+<img width="1389" alt="image" src="https://github.com/user-attachments/assets/2ac9184a-c45a-4547-bc97-8e354407b4f6" />
+<img width="1421" alt="image" src="https://github.com/user-attachments/assets/5d642f50-287a-40c6-bbea-a6590efe6a15" />
+
+
+
+
+
