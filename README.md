@@ -1,4 +1,4 @@
-# Recpie-Finder
+# Recpe-Finder
 
 
 This is a responsive Recipe Finder web application built using ReactJS and styled with Tailwind CSS. The application allows users to search for recipes and view relevant details such as ingredients and cooking instructions.
@@ -48,7 +48,7 @@ module.exports = {
 Import index.css in your src/index.js or src/main.jsx.
 
 ### 3. Copy project files
-Replace the contents of the src folder with the files from this repository.
+Replace the contents  with the app.js , index,css, app.css files from this repository.
 
 Ensure all component and CSS files are copied correctly.
 
