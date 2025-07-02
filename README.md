@@ -16,9 +16,7 @@ This is a responsive Recipe Finder web application built using ReactJS and style
 - Tailwind CSS
 - API Reference: https://themealdb.com/api.php (By the way API  key Already available in my app.js file) 
 
-## Getting Started
-
-Follow the steps below to run the project locally:
+## Follow the steps below to run the project locally:
 
 ### 1. Set up a new React project
 
